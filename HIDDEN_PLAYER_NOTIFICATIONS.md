@@ -188,4 +188,4 @@ INFO: No Telegram ID found for hidden player PlayerName (uuid)
 **Автор**: Court Bot Development Team  
 **Версия**: 1.0  
 
-**Дата**: 2024 
+**Дата**: 2025
